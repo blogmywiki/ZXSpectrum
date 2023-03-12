@@ -11,5 +11,5 @@ VSavon and Holly Tree are imaginary TV company logos, the former looks like it w
 
 'inline' is a Broadway-like font, not sure if I created that or not. This loads ok using typeface-loader or loading it in location 31231 and doing POKE 23607,121 
 
-'inline-2' is the same font shifted 1 byte later so it loads oh by dragging and dropping onto screenshots such as https://damieng.com/typography/zx-origins/homestead/
+'inline-2' is the same font shifted 1 byte later so it loads ok by dragging and dropping onto screenshots such as https://damieng.com/typography/zx-origins/homestead/
 
