@@ -9,7 +9,7 @@ VSavon and Holly Tree are imaginary TV company logos, the former looks like it w
 
 'Oinvaders' (Zappovaders?) is a space invaders type game written by Mark Owen in BASIC with a machine code element 'MC1' which gets loaded - hence the WAV file rather than .tap - this seems to load ok in FUSE.
 
-'inline' is a Broadway-like font, not sure if I created that or not. This loads ok using font-loader or loading it in location 31231 and doing POKE 23607,121 
+'inline' is a Broadway-like font, not sure if I created that or not. This loads ok using typeface-loader or loading it in location 31231 and doing POKE 23607,121 
 
 'inline-2' is the same font shifted 1 byte later so it loads oh by dragging and dropping onto screenshots such as https://damieng.com/typography/zx-origins/homestead/
 
