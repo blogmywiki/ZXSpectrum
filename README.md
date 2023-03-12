@@ -7,5 +7,4 @@ I think the 'psioed' font editor could be the 'Character Generator' in the Psion
 
 VSavon and Holly Tree are imaginary TV company logos, the former looks like it was coded by Mark Owen, I think the latter by Bruce Guthrie. It looks like Mark's VSavon code also reprograms a character to be the Avonside logo once you run it - compare the REM in line 125 before and after you run it!
 
-
-
+'Oinvaders' (Zappovaders?) is a space invaders type game written by Mark Owen in BASIC with a machine code element 'MC1' which gets loaded - hence the WAV file rather than .tap - this seems to load ok in FUSE.
