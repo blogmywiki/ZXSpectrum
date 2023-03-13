@@ -1,4 +1,4 @@
-# ZXSpectrum
+# ZX Spectrum programs and fonts
 Dumping ground for original 1980s ZX Spectrum code from around 1982, transferred from cassettes in my loft.
 
 I think the 'psioed' font editor could be the 'Character Generator' in the Psion Horizons cassette. Written in BASIC. Not by me! There's a sugegstion this could be an adapted version of the one on the Horizons tape, allowing more characters to be edited, so I'll keep it here for now in case it's of wider interest.
