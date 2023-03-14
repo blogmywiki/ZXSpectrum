@@ -17,7 +17,7 @@ VSavon and Holly Tree are imaginary TV company logos, the former looks like it w
 
 'swarm' is The Swarm, a space-invaders-like game written in BASIC, again not by me. No credits. Mark Owen again maybe?
 
-'vhs?!‽?' is a BASIC program to draw a Sony Betamax logo - Mark Owen must have written this as he was always wanging on about how superior Betamax was to VHS.
+'vhs?!‽?' is a BASIC program to draw a Sony Betamax logo - Mark Owen must have written this as he was always wanging on about how superior Betamax was to VHS. Also, note the early use of the interrobang, there.
 
 'vs-lander' is a BASIC lunar lander program by Mark Owen.
 
