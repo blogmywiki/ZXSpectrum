@@ -7,6 +7,8 @@ I think the 'psioed' font editor could be the 'Character Generator' in the Psion
 
 'c4-logo' and 'htv-logo' are BASIC programs for drawing TV company logos.
 
+'dotman' is a BASIC game, not written by me - maybe a magazine type-in?
+
 'g3nxu' is a BASIC program by Mark Owen (not that one) to draw colour bars and my dad's ham radio callsign, for use in amateur TV transmissions.
 
 VSavon and Holly Tree are imaginary TV company logos, the former looks like it was coded by by contemporary at school Mark Owen, I think the latter by Bruce Guthrie. It looks like Mark's VSavon code also reprograms a character to be the Avonside logo once you run it - compare the REM in line 125 before and after you run it!
