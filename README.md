@@ -29,6 +29,8 @@ VSavon and Holly Tree are imaginary TV company logos, the former looks like it w
 
 'vs-lander' is a BASIC lunar lander program by Mark Owen.
 
+'wonder-scroller' is a Mark Owen demo to scroll text one pixel at a time, I think by manipulating the fonts.
+
 ## Inline font 
 'inline' is a Broadway-like font, which I am 99% sure I made. Happy to correct if it wasn't me! This loads ok using typeface-loader or loading it in location 31231 and doing POKE 23607,121 
 
