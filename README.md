@@ -3,6 +3,8 @@ Dumping ground for original 1980s ZX Spectrum code from around 1982, transferred
 
 I think the 'psioed' font editor could be the 'Character Generator' in the Psion Horizons cassette. Written in BASIC. Not by me! There's a sugegstion this could be an adapted version of the one on the Horizons tape, allowing more characters to be edited, so I'll keep it here for now in case it's of wider interest.
 
+'affonsid' - BASIC program by me to draw an imaginary TV company logo VERY slowly using circles.
+
 'colorbars' is an odd 1 line BASIC program which draws horizontal colour bars *in the border*.
 
 'c4-logo' and 'htv-logo' are BASIC programs for drawing TV company logos.
