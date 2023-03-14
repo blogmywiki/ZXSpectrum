@@ -1,7 +1,9 @@
 # ZX Spectrum programs and fonts
-Dumping ground for original 1980s ZX Spectrum code from around 1982, transferred from cassettes in my loft. Written by me unless otherwise stated.
+Dumping ground for original 1980s ZX Spectrum code from around 1982, transferred from cassettes in my loft. Mostly, so far, written by my school friend Mark Owen (not that one), a few by me or another friend.
 
 I think the 'psioed' font editor could be the 'Character Generator' in the Psion Horizons cassette. Written in BASIC. Not by me! There's a sugegstion this could be an adapted version of the one on the Horizons tape, allowing more characters to be edited, so I'll keep it here for now in case it's of wider interest.
+
+'3d0x' is an elegant 3D noughts and crosses program by Mark Owen.
 
 'affonsid' - BASIC program by me to draw an imaginary TV company logo VERY slowly using circles.
 
@@ -11,7 +13,7 @@ I think the 'psioed' font editor could be the 'Character Generator' in the Psion
 
 'dotman' is a BASIC game, not written by me - maybe a magazine type-in?
 
-'g3nxu' is a BASIC program by Mark Owen (not that one) to draw colour bars and my dad's ham radio callsign, for use in amateur TV transmissions.
+'g3nxu' is a BASIC program by Mark Owen to draw colour bars and my dad's ham radio callsign, for use in amateur TV transmissions.
 
 'Gorilla', another BASIC game on a cassette in the loft. A magazine type in? Written by Mark Owen? Or could it be this? https://worldofspectrum.net/item/0020215/
 
@@ -19,7 +21,7 @@ I think the 'psioed' font editor could be the 'Character Generator' in the Psion
 
 'testcard' - simple B&W TV testcard with squares, circles and gradients. I may have written this one! Likely used for amateur TV transmissions.
 
-VSavon and Holly Tree are imaginary TV company logos, the former looks like it was coded by by contemporary at school Mark Owen, I think the latter by Bruce Guthrie. It looks like Mark's VSavon code also reprograms a character to be the Avonside logo once you run it - compare the REM in line 125 before and after you run it!
+VSavon and Holly Tree are imaginary TV company logos, the former looks like it was coded by Mark Owen, I think the latter by Bruce Guthrie. It looks like Mark's VSavon code also reprograms a character to be the Avonside logo once you run it - compare the REM in line 125 before and after you run it!
 
 'Oinvaders' (Zappovaders?) is a space invaders type game written by Mark Owen in BASIC with a machine code element 'MC1' which gets loaded - hence the WAV file rather than .tap - this seems to load ok in FUSE.
 
