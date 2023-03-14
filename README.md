@@ -5,6 +5,8 @@ I think the 'psioed' font editor could be the 'Character Generator' in the Psion
 
 'htv-logo' and 'c4-logo' are BASIC programs for drawing TV company logos.
 
+'g3nxu' is a BASIC program by Mark Owen (not that one) to draw colour bars and my dad's ham radio callsign, for use in amateur TV transmissions.
+
 VSavon and Holly Tree are imaginary TV company logos, the former looks like it was coded by by contemporary at school Mark Owen, I think the latter by Bruce Guthrie. It looks like Mark's VSavon code also reprograms a character to be the Avonside logo once you run it - compare the REM in line 125 before and after you run it!
 
 'Oinvaders' (Zappovaders?) is a space invaders type game written by Mark Owen in BASIC with a machine code element 'MC1' which gets loaded - hence the WAV file rather than .tap - this seems to load ok in FUSE.
