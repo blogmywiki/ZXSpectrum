@@ -1,9 +1,11 @@
 # ZX Spectrum programs and fonts
-Dumping ground for original 1980s ZX Spectrum code from around 1982, transferred from cassettes in my loft.
+Dumping ground for original 1980s ZX Spectrum code from around 1982, transferred from cassettes in my loft. Written by me unless otherwise stated.
 
 I think the 'psioed' font editor could be the 'Character Generator' in the Psion Horizons cassette. Written in BASIC. Not by me! There's a sugegstion this could be an adapted version of the one on the Horizons tape, allowing more characters to be edited, so I'll keep it here for now in case it's of wider interest.
 
-'htv-logo' and 'c4-logo' are BASIC programs for drawing TV company logos.
+'colorbars' is an odd 1 line BASIC program which draws horizontal colour bars *in the border*.
+
+'c4-logo' and 'htv-logo' are BASIC programs for drawing TV company logos.
 
 'g3nxu' is a BASIC program by Mark Owen (not that one) to draw colour bars and my dad's ham radio callsign, for use in amateur TV transmissions.
 
