@@ -7,6 +7,8 @@ I think the 'psioed' font editor could be the 'Character Generator' in the Psion
 
 'affonsid' - BASIC program by me to draw an imaginary TV company logo VERY slowly using circles.
 
+'australia' - hilarious 1 line BASIC program that turns all the text on your Spectrum upside down.
+
 'colorbars' is an odd 1 line BASIC program which draws horizontal colour bars *in the border*.
 
 'c4-logo' and 'htv-logo' are BASIC programs for drawing TV company logos.
