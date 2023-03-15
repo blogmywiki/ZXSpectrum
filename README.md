@@ -27,7 +27,7 @@ VSavon and Holly Tree are imaginary TV company logos, the former looks like it w
 
 'Oinvaders' (Zappovaders?) is a space invaders type game written by Mark Owen in BASIC with a machine code element 'MC1' which gets loaded - hence the WAV file rather than .tap - this seems to load ok in FUSE.
 
-'swarm' is The Swarm, a space-invaders-like game written in BASIC, is a type-in written by Simon Lane which apperaed in Popular Computing Weekly magazine, 16th September 1982: https://archive.org/details/popular-computing-weekly-1982-09-16/page/n7/mode/2up (many thanks to Matt Lewis for tracking this down!)
+'swarm' is The Swarm, a space-invaders-like game written in BASIC, is a type-in written by Simon Lane which appeared in *Popular Computing Weekly* magazine, 16th September 1982: https://archive.org/details/popular-computing-weekly-1982-09-16/page/n7/mode/2up (many thanks to Matt Lewis for tracking this down!)
 
 'vhs?!‽?' is a BASIC program to draw a Sony Betamax logo - Mark Owen must have written this as he was always wanging on about how superior Betamax was to VHS. Also, note the early use of the interrobang, there.
 
