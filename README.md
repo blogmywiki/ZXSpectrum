@@ -1,17 +1,17 @@
 # ZX Spectrum programs and fonts
-Dumping ground for original 1980s ZX Spectrum code from around 1982, transferred from cassettes in my loft. Mostly, so far, written by my school friend Mark Owen (not that one), a few by me or another friend.
+Dumping ground for ZX Spectrum code from around 1982, transferred from cassettes in my loft. Mostly, so far, written by my school friend Mark Owen (not that one), a few by me or another friend.
 
-I think the 'psioed' font editor could be the 'Character Generator' in the Psion Horizons cassette. Written in BASIC. Not by me! There's a sugegstion this could be an adapted version of the one on the Horizons tape, allowing more characters to be edited, so I'll keep it here for now in case it's of wider interest.
+I think the 'psioed' font editor could be the 'Character Generator' in the Psion Horizons cassette. Written in BASIC. Not by me! There's a suggestion this could be an adapted version of the one on the Horizons tape, allowing more characters to be edited, so I'll keep it here for now in case it's of wider interest.
 
 '3d0x' is an elegant 3D noughts and crosses program by Mark Owen.
 
 'affonsid' - BASIC program by me to draw an imaginary TV company logo VERY slowly using circles.
 
-'australia' - hilarious 1 line BASIC program that turns all the text on your Spectrum upside down.
+'australia' - hilarious 1 line BASIC program that turns all the text on your Spectrum upside down. Probably a Mark Owen job.
 
-'colorbars' is an odd 1 line BASIC program which draws horizontal colour bars *in the border*.
+'colorbars' is an odd 1 line BASIC program which draws horizontal colour bars *in the border*. May have been written by me.
 
-'c4-logo' and 'htv-logo' are BASIC programs for drawing TV company logos.
+'c4-logo' and 'htv-logo' are BASIC programs written by me for drawing TV company logos.
 
 'dotman' is a BASIC game, not written by me - maybe a magazine type-in?
 
