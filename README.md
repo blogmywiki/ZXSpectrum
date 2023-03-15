@@ -33,7 +33,7 @@ VSavon and Holly Tree are imaginary TV company logos, the former looks like it w
 
 'vs-lander' is a BASIC lunar lander program by Mark Owen.
 
-'VSwriter' is a BASIC program by Mark Oweb for typing text in very large letters on the screen. Each letter is drawn using PLOT, DRAW and CIRCLE commands.
+'VSwriter' is a BASIC program by Mark Owen for typing text in very large letters on the screen. Each letter is drawn using PLOT, DRAW and CIRCLE commands.
 
 'wonder-scroller' is a Mark Owen demo to scroll text one pixel at a time, I think by manipulating the fonts.
 
