@@ -13,6 +13,8 @@ I think the 'psioed' font editor could be the 'Character Generator' in the Psion
 
 'c4-logo' and 'htv-logo' are BASIC programs written by me for drawing TV company logos.
 
+'crossing' is a Frogger-style type-in from Your Computing January 1983
+
 'dotman' is a BASIC game, not written by me - maybe a magazine type-in?
 
 'g3nxu' is a BASIC program by Mark Owen to draw colour bars and my dad's ham radio callsign, for use in amateur TV transmissions.
@@ -20,6 +22,10 @@ I think the 'psioed' font editor could be the 'Character Generator' in the Psion
 'Gorilla', another BASIC game on a cassette in the loft. A magazine type in? Written by Mark Owen? Or could it be this? https://worldofspectrum.net/item/0020215/
 
 'mazegen' - Mark Owen BASIC program to generate mazes of different sizes
+
+'supertext' is a demo of the machine code routine I used a lot for video credits. It's credited to 'Satsuma Software' which I can find no trace of - I thought I had lifted it from the Psion Horizons cassette, but I may be misremembering.
+
+'tabdemo' is a demo my brother wrote: pattern, random colour lines, colour bars, sphere and ITN logo.
 
 'testcard' - simple B&W TV testcard with squares, circles and gradients. I may have written this one! Likely used for amateur TV transmissions.
 
