@@ -23,6 +23,8 @@ I think the 'psioed' font editor could be the 'Character Generator' in the Psion
 
 'mazegen' - Mark Owen BASIC program to generate mazes of different sizes
 
+'microbit2' is a BBC micro:bit logo drawn very slowly in BASIC - I created this in October 2018 for the Foundation's birthday.
+
 'supertext' is a demo of the machine code routine I used a lot for video credits. It's credited to 'Satsuma Software' which I can find no trace of - I thought I had lifted it from the Psion Horizons cassette, but I may be misremembering.
 
 'tabdemo' is a demo my brother wrote: pattern, random colour lines, colour bars, sphere and ITN logo.
